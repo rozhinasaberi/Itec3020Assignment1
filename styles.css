@@ -1,0 +1,102 @@
+.list-group-item {
+  border: none;
+
+}
+
+.main-card {
+  size: cover;
+  height: fit-content;
+  width: 250px;
+  padding-top: 20%;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0 4px 8px 0 rgba(212, 19, 19, 0.2);
+  transition: 0.3s;
+
+}
+
+.main-card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card-img-top {
+  size: cover;
+
+}
+
+.btn-primary {
+
+  width: 200px;
+  height: 40px;
+  margin-bottom: 20px;
+
+}
+
+.form-select {
+
+  width: 200px;
+  height: 40px;
+  font-size: 14px;
+  margin-bottom: 2px
+}
+
+.btn-description {
+  color: rgb(226, 43, 195);
+}
+
+.card-card-body {
+  color: black;
+  font-size: 14px;
+}
+
+.list-group-custom {
+  margin-top: 10px;
+
+}
+
+.flex-column {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.custom-card {
+
+  size: cover;
+  height: 600px;
+  width: 250px;
+  padding-top: 20%;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0 4px 8px 0 rgba(212, 19, 19, 0.2);
+  transition: 0.3s;
+
+
+}
+
+.coupon {
+  border: 5px dotted #bbb;
+  width: 100%;
+  border-radius: 15px;
+  margin: 0 auto;
+  max-width: 600px;
+  margin-top: 20px;
+}
+
+.container-coupon {
+  padding: px 16px;
+  background-color: #f1f1f1;
+}
+
+
+
+
+.expire {
+  color: red;
+}
+
+.btn-planners {
+  background-color: pink;
+
+}
